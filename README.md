@@ -30,3 +30,6 @@ A aplicação incluirá campos para inserção do texto a ser criptografado ou d
 ## V Extra:
 
 - Botão para copiar o texto criptografar/descriptografar para a área de transferência, facilitando o uso do conteúdo.
+
+- Acesso do link para ver o projeto.
+  https://michel-p-c.github.io/criptografar-descriptografar/
